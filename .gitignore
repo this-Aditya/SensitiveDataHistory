@@ -41,5 +41,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-!**/src/main/**/google-services.json
-!**/google-services.json
+#/src/main/**/google-services.json
+
